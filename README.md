@@ -5,7 +5,7 @@
       focused on paying close attention to details when it comes to user experience.
     </samp>
   </h3>
-  <img width="250" src="https://i.pinimg.com/originals/32/0c/22/320c220789c770a9336dd9ab78d9630e.gif">
+  <img width="250" src="https://i.pinimg.com/originals/53/7c/f9/537cf9bca19dc2219cc962a170836b26.gif">
   <p>
     <img height="26" src="https://simpleicons.org/icons/nextdotjs.svg"/>
      ╹
